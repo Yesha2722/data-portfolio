@@ -3098,7 +3098,7 @@ input, select, textarea {
 .spotlight h2.major {
 	font-size: 2.5rem;
 	margin-bottom: 1em;
-	color: #333;
+	color: rgb(255, 255, 255);
 }
 
 .publications { /* Changed class name from "features" to "publications" */
@@ -3120,12 +3120,12 @@ input, select, textarea {
 .card .major {
 	font-size: 1.6rem;
 	margin-top: 1.5em;
-	color: #222;
+	color: rgb(255, 255, 255);
 }
 
 .card p {
 	margin: 1em 0;
-	color: #444;
+	color: rgb(255, 255, 255);
 }
 
 .card a.special {
